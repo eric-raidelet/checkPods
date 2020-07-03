@@ -10,3 +10,5 @@ However this can be suppressed on demand.
 
 The tool provides a compact view, where the output contains only the Pod names or Node names. This is very handy
 to pass it over to another tool or process for further handling with xargs.
+
+Please see also the tool that extend checkpods with more possibilities: podlogs and podexec
